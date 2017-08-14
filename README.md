@@ -1,5 +1,7 @@
 # ODE-solvers-website-catalog
 
+# the matlab code
+
 Numerov's method, also called Cowell's method, is an implicit fourth order method for approximating the solution of the second order differential equation y''(x) = f(x, y) with initial conditions y(x0) = y0, y'(x0) = y'0. 
 http://mymathlib.com/diffeq/second_order/numerov.html
 
@@ -24,3 +26,15 @@ https://cn.mathworks.com/matlabcentral/fileexchange/55433-adams-bashforth-moulto
 Cowell's Method for Earth Satellites
 https://cn.mathworks.com/matlabcentral/fileexchange/39703-cowell-s-method-for-earth-satellites
     
+# the fortran code
+
+Adams-Moulton method for systems of ode's (amrk,rksys,amsys,xpsys)
+http://www.ma.utexas.edu/CNA/cheney-kincaid/f90code/CHP11/amrk.f90
+! adaptive scheme for adams-moulton method for systems of ode's
+!  (amrkad,xpsys,amrk,amsys,rksys)
+http://www.ma.utexas.edu/CNA/cheney-kincaid/f90code/CHP11/amrkad.f90
+
+Solve Y'= F(X,Y) with initial conditions using the Adams-Moulton Prediction-Correction Method NEW
+http://jean-pierre.moreau.pagesperso-orange.fr/f_eqdiff.html
+
+
