@@ -30,11 +30,31 @@ https://cn.mathworks.com/matlabcentral/fileexchange/39703-cowell-s-method-for-ea
 
 Adams-Moulton method for systems of ode's (amrk,rksys,amsys,xpsys)
 http://www.ma.utexas.edu/CNA/cheney-kincaid/f90code/CHP11/amrk.f90
+
+
 ! adaptive scheme for adams-moulton method for systems of ode's
 !  (amrkad,xpsys,amrk,amsys,rksys)
 http://www.ma.utexas.edu/CNA/cheney-kincaid/f90code/CHP11/amrkad.f90
 
 Solve Y'= F(X,Y) with initial conditions using the Adams-Moulton Prediction-Correction Method NEW
 http://jean-pierre.moreau.pagesperso-orange.fr/f_eqdiff.html
+
+Numerical Methods for Second-Order ODE
+http://math.oregonstate.edu/home/programs/undergrad/CalculusQuestStudyGuides/ode/second/so_num/so_num.html
+
+odepack
+http://netlib.org/odepack/index.html
+
+Demonstrates the use of Runge-Kutta, Adams-Bashford, and Adams-Moulton methods for solving ODEs
+http://personal.psu.edu/jhm/f90/progref.html
+
+
+! The Numerov algorithm for the equation u"(x)+q(x)u(x)=s(x)
+! as given in Eqs. (3.82)-(3.85) in the book.
+! Copyright (c) Tao Pang 1997.
+http://www.physics.unlv.edu/~pang/cp_f90.html
+
+
+
 
 
